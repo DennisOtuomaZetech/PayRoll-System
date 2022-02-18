@@ -1,3 +1,12 @@
+/*
+Simple Calculator
+by Dennis Jesse Otuoma
+Feb 2022
+MIT License
+C89 Compiler
+*/
+
+
 #include <stdio.h>
 
 int main()
